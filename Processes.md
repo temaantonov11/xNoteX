@@ -1,3 +1,4 @@
+[[OS]]
 ### Definition
 In Linux, a **process is any active (running) instance of program**. But what is a program? Well, technically, a program is any executable file held in storage on your machine. Anytime you run a program, you have created a process.
 >[!tip] processes
