@@ -1,4 +1,9 @@
 {
-  "cssTheme": "Nightfox",
-  "theme": "moonstone"
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "accentColor": "#c800f0",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSize": 15
 }

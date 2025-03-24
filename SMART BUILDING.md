@@ -65,5 +65,26 @@ merge стратегия
 
 ### Tasks
 - **22.01** - начать разбираться в коде. Начинаю с блока **connectivity/properties.hpp и ухожу в  /device, а потом дальше разбираю блок connectivity**.
-- 
+
+BTClientConnection in managment, backend in managment
+
+запросы прокидываться до девайс менеджера
+
+
+MqttClient 
+
+конфиг параметры важно синтегрировать
+sdkconfig
+
+Нужно v5.4. 
+`git checkout v5.4`
+
+
+`blufi_init.c`
+
+формат. `ClientToDeviceRequestMapper`
+
+Как в таких случаях делать: вписываются логи и смотриться 
+
+часть оставить, часть заменить
 

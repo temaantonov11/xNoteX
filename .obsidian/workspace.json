@@ -8,63 +8,399 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8224419857e84205",
+            "id": "d433051df862b32d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMART BUILDING.md",
+                "file": "DOCKER.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMART BUILDING"
+              "title": "DOCKER"
             }
           },
           {
-            "id": "ef0734597ef597b5",
+            "id": "2da1359b31ecd3af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory overcommitment.md",
+                "file": "VIRTUALIZATION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory overcommitment"
+              "title": "VIRTUALIZATION"
             }
           },
           {
-            "id": "87443e543e7545d8",
+            "id": "cf37aa160ecc9bf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRC.md",
+                "file": "CONTAINERIZATION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRC"
+              "title": "CONTAINERIZATION"
             }
           },
           {
-            "id": "fccfdcdddcec42d5",
+            "id": "781c827428180a9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Системы управления.md",
+                "file": "DOCKER LAB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Системы управления"
+              "title": "DOCKER LAB"
+            }
+          },
+          {
+            "id": "cec738b977483fc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Union.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Union"
+            }
+          },
+          {
+            "id": "0d0d8cf67194c4d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Архитектура ПО.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Архитектура ПО"
+            }
+          },
+          {
+            "id": "ae36fbef55a0536e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Типы данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Типы данных"
+            }
+          },
+          {
+            "id": "ebcd2863176deb37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enumeration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enumeration"
+            }
+          },
+          {
+            "id": "78d25133f5e9cafc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Типобезопасные псевдонимы с помощью typedef.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Типобезопасные псевдонимы с помощью typedef"
+            }
+          },
+          {
+            "id": "50c862fa8cbe2ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Functions"
+            }
+          },
+          {
+            "id": "4c9b17e46b1f345b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обощенные сортировки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Обощенные сортировки"
+            }
+          },
+          {
+            "id": "881d0f4b6a13e408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Callbacks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Callbacks"
+            }
+          },
+          {
+            "id": "3bd146e8ffe7265f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESP_BLUFI_EVENT_BLE_CONNECT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ESP_BLUFI_EVENT_BLE_CONNECT"
+            }
+          },
+          {
+            "id": "de0ccb9095dff278",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orchestration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Orchestration"
+            }
+          },
+          {
+            "id": "48fc6ec2d1467778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bluetooth GATT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bluetooth GATT"
+            }
+          },
+          {
+            "id": "ac90a6bd478b2c7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MQTT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MQTT"
+            }
+          },
+          {
+            "id": "518f56bce898d8f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bit math.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bit math"
+            }
+          },
+          {
+            "id": "4fa55be9fba2a9a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Declaration & Definition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Declaration & Definition"
+            }
+          },
+          {
+            "id": "90cfeb6a58900d9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C++"
+            }
+          },
+          {
+            "id": "ce7587bfebdfeac1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Компиляция кода на С++.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Компиляция кода на С++"
+            }
+          },
+          {
+            "id": "859d3d0290dd9259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Информационные системы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Информационные системы"
+            }
+          },
+          {
+            "id": "b317e560a50eb68e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Электропривод.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Электропривод"
+            }
+          },
+          {
+            "id": "582cd162ea55672c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux"
+            }
+          },
+          {
+            "id": "bd5cc8e8e285c246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Embedded system"
+            }
+          },
+          {
+            "id": "8c6c2053c47bafc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCKER.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DOCKER"
+            }
+          },
+          {
+            "id": "92053e6e7462a9c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CONTAINERIZATION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONTAINERIZATION"
+            }
+          },
+          {
+            "id": "bb97b4833723b949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File Systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "File Systems"
+            }
+          },
+          {
+            "id": "d81619a045087be9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Планирование в ОС.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Планирование в ОС"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -83,7 +419,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -120,7 +457,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6108655925dd8a4e",
@@ -205,45 +543,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87443e543e7545d8",
+  "active": "d81619a045087be9",
   "lastOpenFiles": [
-    "Системы управления.md",
-    "CRC.md",
-    "Memory overcommitment.md",
-    "SMART BUILDING.md",
-    "Теория об электричестве.md",
-    "Физика элетрического тока.md",
-    "C.md",
-    "IoT.md",
-    "Типы данных.md",
-    "Сенсорные системы.md",
+    "CONTAINERIZATION.md",
     "VIRTUALIZATION.md",
+    "File Systems.md",
+    "JAVA.md",
+    "DOCKER.md",
+    "Linux.md",
+    "Bit math.md",
+    "Arrays.md",
+    "Arduino.md",
+    "Two pointers.md",
+    "Traffic vocabulary.md",
+    "SMART BUILDING.md",
+    "RAW.md",
+    "Processes.md",
     "HYPERVISOR.md",
+    "Правовая грамотность/Базовые понятия в праве.md",
+    "Правовая грамотность/Виды юристов.md",
     "Глобальные переменные.md",
-    "Linux commands.md",
-    "Memory.md",
-    "Computer Science.md",
+    "Типы данных.md",
+    "Embedded system.md",
+    "DOCKER LAB.md",
+    "files/Pasted image 20250227193836.png",
+    "Электропривод.md",
     "Что такое Linux.md",
-    "Computer architecture.md",
-    "OS.md",
-    "Указатели.md",
-    "files/Pasted image 20250121001843.png",
-    "files/Pasted image 20250121001801.png",
-    "Структура кода.md",
-    "Архитектура фон Неймана.md",
-    "LEARNING.md",
-    "Структуры.md",
-    "Массив массивов.md",
-    "Динамическое выделение памяти.md",
-    "files/Pasted image 20250120234621.png",
+    "Linked list.md",
+    "files/Pasted image 20250227114943.png",
+    "files/Pasted image 20250227114928.png",
+    "files/Pasted image 20250227114833.png",
+    "files/Pasted image 20250227114752.png",
+    "Информационные системы.md",
+    "Bluetooth GATT.md",
+    "files/Pasted image 20250224185726.png",
     "Untitled.canvas",
-    "files/Pasted image 20250117220305.png",
-    "files/Pasted image 20250115130452.png",
-    "files/Pasted image 20250106225453.png",
-    "files/Pasted image 20250106224512.png",
-    "files/Pasted image 20250106175234.png",
-    "files/Pasted image 20250106174534.png",
-    "files/Pasted image 20250106173233.png",
+    "files/Pasted image 20250212183431.png",
+    "files/Pasted image 20250212120331.png",
+    "files/Pasted image 20250212115738.png",
+    "files/Pasted image 20250212115508.png",
+    "Правовая грамотность",
+    "challenges",
     "files"
   ]
 }
